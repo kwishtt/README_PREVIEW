@@ -21,7 +21,7 @@
 
 ### Bước 1: Kiểm tra quyền truy cập
 
-Bạn cần có **role Dating** để sử dụng hệ thống này. Liên hệ admin nếu chưa có role.
+Bạn cần có **role Tìm Một Nửa** để sử dụng hệ thống này. Liên hệ admin nếu chưa có role.
 
 ### Bước 2: Tạo hồ sơ cá nhân
 
